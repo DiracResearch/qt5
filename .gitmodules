@@ -13,7 +13,7 @@
 	depends = qtbase
 	recommends = qtsvg qtxmlpatterns
 	path = qtdeclarative
-	url = https://github.com/qt/qtdeclarative.git
+	url = https://github.com/DiracResearch/qtdeclarative.git
 	branch = 5.9.3
 	status = essential
 [submodule "qtactiveqt"]
@@ -80,7 +80,7 @@
 	depends = qtbase
 	recommends = qtdeclarative qtquickcontrols qtquickcontrols2 qtserialport
 	path = qtlocation
-	url = https://github.com/qt/qtlocation.git
+	url=https://github.com/DiracResearch/qtlocation.git
 	branch = 5.9.3
 	status = addon
 [submodule "qtsensors"]
@@ -299,7 +299,7 @@
 	depends = qtbase
 	recommends = qtwebview
 	path = qtnetworkauth
-	url = https://github.com/qt/qtnetworkauth.git
+	url = https://github.com/DiracResearch/qtnetworkauth.git
 	branch = 5.9.3
 	status = preview
 [submodule "qtremoteobjects"]
